@@ -1,0 +1,37 @@
+_repo: The-La-Chance-Mine-Mystery_27209
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gage, George W.
+    alias: Gage, G. W.
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Susan Morrow
+    aliases:
+    - Carleton-Milecete
+    - Jones, S. Carleton
+    - Milecete, Helen
+    - Carleton, S.
+    deathdate: 1926
+    gutenberg_agent_id: '32543'
+    url: http://www.gutenberg.org/2009/agents/32543
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Canadian fiction'
+title: The La Chance Mine Mystery
+url: http://www.gutenberg.org/ebooks/27209
